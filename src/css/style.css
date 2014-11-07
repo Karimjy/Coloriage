@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'mickey';
+    src: url('../fonts/mickey-webfont.eot') format('eot'),
+         url('../fonts/mickey-webfont.woff') format('woff'),
+         url('../fonts/mickey-webfont.ttf') format('truetype'),
+         url('../fonts/mickey-webfont.svg') format('svg');
+}
+
+body{
+	font-family: 'mickey';
+	background: no-repeat url("../img/game.jpg");
+	background-size: cover; 
+}
